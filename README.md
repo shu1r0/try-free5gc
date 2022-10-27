@@ -1,0 +1,1 @@
+Cord placement for playing with Free5GC
